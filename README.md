@@ -1,4 +1,4 @@
-# 👋 Hello! My name is Timur, QA Engineer / Тестировщик
+# 👋 Hello! My name is Timur, QA Engineer
 
 🔍 **Specialization:**  
 - Functional testing of web and mobile applications  
