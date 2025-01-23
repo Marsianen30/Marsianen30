@@ -6,11 +6,13 @@
 - Regression and cross-browser testing
 - In-depth requirements analysis
 
-🛠 **Tools:**
+🛠 **My stack:**
 ![Jira](https://img.shields.io/badge/-Jira-0052CC?logo=jira)
 ![Charles Proxy](https://img.shields.io/badge/-Charles_Proxy-6C814B)
 ![Chrome DevTools](https://img.shields.io/badge/-DevTools-4285F4?logo=googlechrome)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=mysql)
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marsianen30&size_weight=0.5&count_weight=0.5)
 
