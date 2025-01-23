@@ -12,7 +12,7 @@
 ![Chrome DevTools](https://img.shields.io/badge/-DevTools-4285F4?logo=googlechrome)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=mysql)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
+![Marsianen30 GitHub stats](https://github-readme-stats.vercel.app/api?username=Marsianen30&show_icons=true&theme=transparent)
 
 
 📫 **Связаться со мной:**  
