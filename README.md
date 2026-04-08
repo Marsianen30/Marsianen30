@@ -1,7 +1,7 @@
 <div align="center">
 
 # 👋 Привет! Я Тимур Вильданов
-### QA Engineer | Manual & Automation Testing
+### QA Engineer | Manual Testing
 
 </div>
 
@@ -33,19 +33,6 @@
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-
-### Автоматизация
-![Selenium](https://img.shields.io/badge/-Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
-![Pytest](https://img.shields.io/badge/-Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
-
----
-
-## 🎓 Сертификаты и курсы
-
-- 📜 **Тестирование ПО** — Simbirsoft (2023)
-- 📜 **Основы тестирования ПО** — Stepik
-- 📜 **SQL для начинающих** — Stepik
-- 📜 **Python для тестировщиков** — Stepik
 
 ---
 
